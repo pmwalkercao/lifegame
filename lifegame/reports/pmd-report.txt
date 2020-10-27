@@ -1,0 +1,550 @@
+src/com/frans/lifegame/Cell.java:3:	CommentRequired: Class comments are required
+src/com/frans/lifegame/Cell.java:3:	CommentRequired: Class comments are required
+src/com/frans/lifegame/Cell.java:3:	DataClass: The class 'Cell' is suspected to be a Data Class (WOC=10.000%, NOPA=0, NOAM=8, WMC=11)
+src/com/frans/lifegame/Cell.java:3:	DataClass: The class 'Cell' is suspected to be a Data Class (WOC=10.000%, NOPA=0, NOAM=8, WMC=11)
+src/com/frans/lifegame/Cell.java:3:	ShortClassName: Avoid short class names like Cell
+src/com/frans/lifegame/Cell.java:3:	ShortClassName: Avoid short class names like Cell
+src/com/frans/lifegame/Cell.java:4:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Cell.java:4:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Cell.java:5:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Cell.java:5:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Cell.java:6:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Cell.java:6:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Cell.java:6:	ShortVariable: Avoid variables with short names like x
+src/com/frans/lifegame/Cell.java:6:	ShortVariable: Avoid variables with short names like x
+src/com/frans/lifegame/Cell.java:7:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Cell.java:7:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Cell.java:7:	ShortVariable: Avoid variables with short names like y
+src/com/frans/lifegame/Cell.java:7:	ShortVariable: Avoid variables with short names like y
+src/com/frans/lifegame/Cell.java:10:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Cell.java:10:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Cell.java:10:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/com/frans/lifegame/Cell.java:10:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/com/frans/lifegame/Cell.java:10:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/com/frans/lifegame/Cell.java:10:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/com/frans/lifegame/Cell.java:10:	ShortVariable: Avoid variables with short names like x
+src/com/frans/lifegame/Cell.java:10:	ShortVariable: Avoid variables with short names like x
+src/com/frans/lifegame/Cell.java:10:	ShortVariable: Avoid variables with short names like y
+src/com/frans/lifegame/Cell.java:10:	ShortVariable: Avoid variables with short names like y
+src/com/frans/lifegame/Cell.java:15:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Cell.java:15:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Cell.java:16:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/frans/lifegame/Cell.java:16:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/frans/lifegame/Cell.java:17:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Cell.java:17:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Cell.java:17:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/frans/lifegame/Cell.java:17:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/com/frans/lifegame/Cell.java:26:	MethodArgumentCouldBeFinal: Parameter 'nextStatus' is not assigned and could be declared final
+src/com/frans/lifegame/Cell.java:26:	MethodArgumentCouldBeFinal: Parameter 'nextStatus' is not assigned and could be declared final
+src/com/frans/lifegame/Cell.java:30:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/com/frans/lifegame/Cell.java:30:	MethodArgumentCouldBeFinal: Parameter 'status' is not assigned and could be declared final
+src/com/frans/lifegame/Cell.java:43:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/com/frans/lifegame/Cell.java:43:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/com/frans/lifegame/Cell.java:43:	ShortVariable: Avoid variables with short names like x
+src/com/frans/lifegame/Cell.java:43:	ShortVariable: Avoid variables with short names like x
+src/com/frans/lifegame/Cell.java:51:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/com/frans/lifegame/Cell.java:51:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/com/frans/lifegame/Cell.java:51:	ShortVariable: Avoid variables with short names like y
+src/com/frans/lifegame/Cell.java:51:	ShortVariable: Avoid variables with short names like y
+src/com/frans/lifegame/Cell.java:56:	CommentRequired: Enum comments are required
+src/com/frans/lifegame/Cell.java:56:	CommentRequired: Enum comments are required
+src/com/frans/lifegame/CellTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/frans/lifegame/CellTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/frans/lifegame/CellTest.java:8:	CommentRequired: Class comments are required
+src/com/frans/lifegame/CellTest.java:8:	CommentRequired: Class comments are required
+src/com/frans/lifegame/CellTest.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/CellTest.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/CellTest.java:10:	CommentRequired: Field comments are required
+src/com/frans/lifegame/CellTest.java:10:	CommentRequired: Field comments are required
+src/com/frans/lifegame/CellTest.java:10:	ImmutableField: Private field 'cell1' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/CellTest.java:10:	ImmutableField: Private field 'cell1' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/CellTest.java:13:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/CellTest.java:13:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/CellTest.java:13:	UncommentedEmptyMethodBody: Document empty method body
+src/com/frans/lifegame/CellTest.java:13:	UncommentedEmptyMethodBody: Document empty method body
+src/com/frans/lifegame/CellTest.java:17:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/CellTest.java:17:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/CellTest.java:17:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/com/frans/lifegame/CellTest.java:17:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/com/frans/lifegame/CellTest.java:23:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/CellTest.java:23:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/CellTest.java:23:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/com/frans/lifegame/CellTest.java:23:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/com/frans/lifegame/CellTest.java:26:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/CellTest.java:26:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/CellTest.java:26:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/com/frans/lifegame/CellTest.java:26:	UseAssertTrueInsteadOfAssertEquals: Use assertTrue(x)/assertFalse(x) instead of assertEquals(true, x)/assertEquals(false, x) or assertEquals(Boolean.TRUE, x)/assertEquals(Boolean.FALSE, x).
+src/com/frans/lifegame/Game.java:12:	ModifiedCyclomaticComplexity: The class 'Game' has a Modified Cyclomatic Complexity of 3 (Highest = 11).
+src/com/frans/lifegame/Game.java:12:	ModifiedCyclomaticComplexity: The class 'Game' has a Modified Cyclomatic Complexity of 3 (Highest = 11).
+src/com/frans/lifegame/Game.java:12:	ShortClassName: Avoid short class names like Game
+src/com/frans/lifegame/Game.java:12:	ShortClassName: Avoid short class names like Game
+src/com/frans/lifegame/Game.java:12:	StdCyclomaticComplexity: The class 'Game' has a Standard Cyclomatic Complexity of 3 (Highest = 11).
+src/com/frans/lifegame/Game.java:12:	StdCyclomaticComplexity: The class 'Game' has a Standard Cyclomatic Complexity of 3 (Highest = 11).
+src/com/frans/lifegame/Game.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/Game.java:14:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/Game.java:14:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Game.java:14:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Game.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/Game.java:15:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/Game.java:15:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Game.java:15:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Game.java:15:	ImmutableField: Private field 'width' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/Game.java:15:	ImmutableField: Private field 'width' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/Game.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/Game.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/Game.java:16:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Game.java:16:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Game.java:16:	ImmutableField: Private field 'height' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/Game.java:16:	ImmutableField: Private field 'height' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/Game.java:17:	AvoidFieldNameMatchingMethodName: Field run has the same name as a method
+src/com/frans/lifegame/Game.java:17:	AvoidFieldNameMatchingMethodName: Field run has the same name as a method
+src/com/frans/lifegame/Game.java:17:	AvoidUsingVolatile: Use of modifier volatile is not recommended.
+src/com/frans/lifegame/Game.java:17:	AvoidUsingVolatile: Use of modifier volatile is not recommended.
+src/com/frans/lifegame/Game.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/Game.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/Game.java:17:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Game.java:17:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Game.java:18:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/Game.java:18:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/Game.java:18:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Game.java:18:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Game.java:18:	ImmutableField: Private field 'time' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/Game.java:18:	ImmutableField: Private field 'time' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/Game.java:21:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/Game.java:21:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/Game.java:21:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Game.java:21:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Game.java:21:	LongVariable: Avoid excessively long variable names like cellChangeListener
+src/com/frans/lifegame/Game.java:21:	LongVariable: Avoid excessively long variable names like cellChangeListener
+src/com/frans/lifegame/Game.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/Game.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/Game.java:22:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Game.java:22:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Game.java:25:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:25:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:25:	MethodArgumentCouldBeFinal: Parameter 'height' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:25:	MethodArgumentCouldBeFinal: Parameter 'height' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:25:	MethodArgumentCouldBeFinal: Parameter 'interval' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:25:	MethodArgumentCouldBeFinal: Parameter 'interval' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:25:	MethodArgumentCouldBeFinal: Parameter 'width' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:25:	MethodArgumentCouldBeFinal: Parameter 'width' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:33:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:33:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:44:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:44:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:44:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:44:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:44:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:44:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:44:	ShortVariable: Avoid variables with short names like x
+src/com/frans/lifegame/Game.java:44:	ShortVariable: Avoid variables with short names like x
+src/com/frans/lifegame/Game.java:44:	ShortVariable: Avoid variables with short names like y
+src/com/frans/lifegame/Game.java:44:	ShortVariable: Avoid variables with short names like y
+src/com/frans/lifegame/Game.java:48:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:48:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:48:	MethodArgumentCouldBeFinal: Parameter 'probability' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:48:	MethodArgumentCouldBeFinal: Parameter 'probability' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:49:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'rand' (lines '49'-'63').
+src/com/frans/lifegame/Game.java:49:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'rand' (lines '49'-'63').
+src/com/frans/lifegame/Game.java:49:	LocalVariableCouldBeFinal: Local variable 'rand' could be declared final
+src/com/frans/lifegame/Game.java:49:	LocalVariableCouldBeFinal: Local variable 'rand' could be declared final
+src/com/frans/lifegame/Game.java:52:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/frans/lifegame/Game.java:52:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/frans/lifegame/Game.java:53:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Game.java:53:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Game.java:65:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:65:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:65:	CyclomaticComplexity: The method 'getNeighbor(int, int)' has a cyclomatic complexity of 10.
+src/com/frans/lifegame/Game.java:65:	CyclomaticComplexity: The method 'getNeighbor(int, int)' has a cyclomatic complexity of 10.
+src/com/frans/lifegame/Game.java:65:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:65:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:65:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:65:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:65:	ShortVariable: Avoid variables with short names like x
+src/com/frans/lifegame/Game.java:65:	ShortVariable: Avoid variables with short names like x
+src/com/frans/lifegame/Game.java:65:	ShortVariable: Avoid variables with short names like y
+src/com/frans/lifegame/Game.java:65:	ShortVariable: Avoid variables with short names like y
+src/com/frans/lifegame/Game.java:80:	LongVariable: Avoid excessively long variable names like cellChangeListener
+src/com/frans/lifegame/Game.java:80:	LongVariable: Avoid excessively long variable names like cellChangeListener
+src/com/frans/lifegame/Game.java:80:	MethodArgumentCouldBeFinal: Parameter 'cellChangeListener' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:80:	MethodArgumentCouldBeFinal: Parameter 'cellChangeListener' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:84:	MethodArgumentCouldBeFinal: Parameter 'cellListener' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:84:	MethodArgumentCouldBeFinal: Parameter 'cellListener' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:88:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:88:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:88:	MethodArgumentCouldBeFinal: Parameter 'cell' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:88:	MethodArgumentCouldBeFinal: Parameter 'cell' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:88:	MethodArgumentCouldBeFinal: Parameter 'num' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:88:	MethodArgumentCouldBeFinal: Parameter 'num' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:90:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/com/frans/lifegame/Game.java:90:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/com/frans/lifegame/Game.java:91:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Game.java:91:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Game.java:91:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/com/frans/lifegame/Game.java:91:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/com/frans/lifegame/Game.java:92:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/com/frans/lifegame/Game.java:92:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/com/frans/lifegame/Game.java:93:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Game.java:93:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Game.java:93:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/com/frans/lifegame/Game.java:93:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/com/frans/lifegame/Game.java:95:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Game.java:95:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Game.java:95:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/com/frans/lifegame/Game.java:95:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/com/frans/lifegame/Game.java:98:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:98:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:98:	CyclomaticComplexity: The method 'run()' has a cyclomatic complexity of 11.
+src/com/frans/lifegame/Game.java:98:	CyclomaticComplexity: The method 'run()' has a cyclomatic complexity of 11.
+src/com/frans/lifegame/Game.java:98:	MissingOverride: The method 'run()' is missing an @Override annotation.
+src/com/frans/lifegame/Game.java:98:	MissingOverride: The method 'run()' is missing an @Override annotation.
+src/com/frans/lifegame/Game.java:98:	ModifiedCyclomaticComplexity: The method 'run' has a Modified Cyclomatic Complexity of 11.
+src/com/frans/lifegame/Game.java:98:	ModifiedCyclomaticComplexity: The method 'run' has a Modified Cyclomatic Complexity of 11.
+src/com/frans/lifegame/Game.java:98:	StdCyclomaticComplexity: The method 'run' has a Standard Cyclomatic Complexity of 11.
+src/com/frans/lifegame/Game.java:98:	StdCyclomaticComplexity: The method 'run' has a Standard Cyclomatic Complexity of 11.
+src/com/frans/lifegame/Game.java:101:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/frans/lifegame/Game.java:101:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/frans/lifegame/Game.java:101:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'changeCells' (lines '101'-'127').
+src/com/frans/lifegame/Game.java:101:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'changeCells' (lines '101'-'127').
+src/com/frans/lifegame/Game.java:101:	LocalVariableCouldBeFinal: Local variable 'changeCells' could be declared final
+src/com/frans/lifegame/Game.java:101:	LocalVariableCouldBeFinal: Local variable 'changeCells' could be declared final
+src/com/frans/lifegame/Game.java:101:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/com/frans/lifegame/Game.java:101:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/com/frans/lifegame/Game.java:105:	LocalVariableCouldBeFinal: Local variable 'num' could be declared final
+src/com/frans/lifegame/Game.java:105:	LocalVariableCouldBeFinal: Local variable 'num' could be declared final
+src/com/frans/lifegame/Game.java:112:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/frans/lifegame/Game.java:112:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/frans/lifegame/Game.java:113:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Game.java:113:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Game.java:116:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/frans/lifegame/Game.java:116:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/frans/lifegame/Game.java:117:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Game.java:117:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Game.java:118:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/frans/lifegame/Game.java:118:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/com/frans/lifegame/Game.java:119:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Game.java:119:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/Game.java:123:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/frans/lifegame/Game.java:123:	AvoidPrintStackTrace: Avoid printStackTrace(); use a logger call instead.
+src/com/frans/lifegame/Game.java:129:	MethodArgumentCouldBeFinal: Parameter 'run' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:129:	MethodArgumentCouldBeFinal: Parameter 'run' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:142:	CommentRequired: Class comments are required
+src/com/frans/lifegame/Game.java:142:	CommentRequired: Class comments are required
+src/com/frans/lifegame/Game.java:143:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:143:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:143:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'cellArray': the method is declared in an interface type
+src/com/frans/lifegame/Game.java:143:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'cellArray': the method is declared in an interface type
+src/com/frans/lifegame/Game.java:147:	CommentRequired: Class comments are required
+src/com/frans/lifegame/Game.java:147:	CommentRequired: Class comments are required
+src/com/frans/lifegame/Game.java:148:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:148:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:148:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'cellChange': the method is declared in an interface type
+src/com/frans/lifegame/Game.java:148:	UnnecessaryModifier: Unnecessary modifier 'public' on method 'cellChange': the method is declared in an interface type
+src/com/frans/lifegame/Game.java:151:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:151:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Game.java:151:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:151:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/com/frans/lifegame/Game.java:152:	LocalVariableCouldBeFinal: Local variable 'game' could be declared final
+src/com/frans/lifegame/Game.java:152:	LocalVariableCouldBeFinal: Local variable 'game' could be declared final
+src/com/frans/lifegame/Game.java:157:	SystemPrintln: System.out.print is used
+src/com/frans/lifegame/Game.java:157:	SystemPrintln: System.out.print is used
+src/com/frans/lifegame/Game.java:160:	SystemPrintln: System.out.println is used
+src/com/frans/lifegame/Game.java:160:	SystemPrintln: System.out.println is used
+src/com/frans/lifegame/Game.java:163:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/com/frans/lifegame/Game.java:163:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/com/frans/lifegame/GameTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/frans/lifegame/GameTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/frans/lifegame/GameTest.java:8:	CommentRequired: Class comments are required
+src/com/frans/lifegame/GameTest.java:8:	CommentRequired: Class comments are required
+src/com/frans/lifegame/GameTest.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/GameTest.java:9:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/GameTest.java:9:	CommentRequired: Field comments are required
+src/com/frans/lifegame/GameTest.java:9:	CommentRequired: Field comments are required
+src/com/frans/lifegame/GameTest.java:9:	ImmutableField: Private field 'game1' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/GameTest.java:9:	ImmutableField: Private field 'game1' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/GameTest.java:12:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/GameTest.java:12:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/GameTest.java:12:	UncommentedEmptyMethodBody: Document empty method body
+src/com/frans/lifegame/GameTest.java:12:	UncommentedEmptyMethodBody: Document empty method body
+src/com/frans/lifegame/GameTest.java:17:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/GameTest.java:17:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/GameTest.java:23:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:23:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:23:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/com/frans/lifegame/GameTest.java:23:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/com/frans/lifegame/GameTest.java:29:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/GameTest.java:29:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/GameTest.java:29:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/com/frans/lifegame/GameTest.java:29:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/com/frans/lifegame/GameTest.java:36:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:36:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:36:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/com/frans/lifegame/GameTest.java:36:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/com/frans/lifegame/GameTest.java:37:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:37:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:37:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/com/frans/lifegame/GameTest.java:37:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/com/frans/lifegame/GameTest.java:38:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:38:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:38:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/com/frans/lifegame/GameTest.java:38:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/com/frans/lifegame/GameTest.java:44:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/GameTest.java:44:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/GameTest.java:44:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/com/frans/lifegame/GameTest.java:44:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/com/frans/lifegame/GameTest.java:49:	LocalVariableCouldBeFinal: Local variable 'cell1' could be declared final
+src/com/frans/lifegame/GameTest.java:49:	LocalVariableCouldBeFinal: Local variable 'cell1' could be declared final
+src/com/frans/lifegame/GameTest.java:52:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:52:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:54:	LocalVariableCouldBeFinal: Local variable 'cell2' could be declared final
+src/com/frans/lifegame/GameTest.java:54:	LocalVariableCouldBeFinal: Local variable 'cell2' could be declared final
+src/com/frans/lifegame/GameTest.java:57:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:57:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:59:	LocalVariableCouldBeFinal: Local variable 'cell3' could be declared final
+src/com/frans/lifegame/GameTest.java:59:	LocalVariableCouldBeFinal: Local variable 'cell3' could be declared final
+src/com/frans/lifegame/GameTest.java:62:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:62:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:66:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/GameTest.java:66:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/GameTest.java:66:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/com/frans/lifegame/GameTest.java:66:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/com/frans/lifegame/GameTest.java:72:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:72:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:72:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/com/frans/lifegame/GameTest.java:72:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/com/frans/lifegame/GameTest.java:73:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:73:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:73:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/com/frans/lifegame/GameTest.java:73:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/com/frans/lifegame/GameTest.java:79:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/GameTest.java:79:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/GameTest.java:79:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/com/frans/lifegame/GameTest.java:79:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/com/frans/lifegame/GameTest.java:87:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:87:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:93:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/GameTest.java:93:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/Time.java:3:	CommentRequired: Class comments are required
+src/com/frans/lifegame/Time.java:3:	CommentRequired: Class comments are required
+src/com/frans/lifegame/Time.java:3:	ShortClassName: Avoid short class names like Time
+src/com/frans/lifegame/Time.java:3:	ShortClassName: Avoid short class names like Time
+src/com/frans/lifegame/Time.java:4:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Time.java:4:	CommentRequired: Field comments are required
+src/com/frans/lifegame/Time.java:7:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Time.java:7:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/Time.java:7:	MethodArgumentCouldBeFinal: Parameter 'interval' is not assigned and could be declared final
+src/com/frans/lifegame/Time.java:7:	MethodArgumentCouldBeFinal: Parameter 'interval' is not assigned and could be declared final
+src/com/frans/lifegame/Time.java:15:	MethodArgumentCouldBeFinal: Parameter 'interval' is not assigned and could be declared final
+src/com/frans/lifegame/Time.java:15:	MethodArgumentCouldBeFinal: Parameter 'interval' is not assigned and could be declared final
+src/com/frans/lifegame/TimeTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/frans/lifegame/TimeTest.java:8:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/com/frans/lifegame/TimeTest.java:8:	CommentRequired: Class comments are required
+src/com/frans/lifegame/TimeTest.java:8:	CommentRequired: Class comments are required
+src/com/frans/lifegame/TimeTest.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/TimeTest.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/TimeTest.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the time field if you want a default access modifier
+src/com/frans/lifegame/TimeTest.java:10:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the time field if you want a default access modifier
+src/com/frans/lifegame/TimeTest.java:10:	CommentRequired: Field comments are required
+src/com/frans/lifegame/TimeTest.java:10:	CommentRequired: Field comments are required
+src/com/frans/lifegame/TimeTest.java:10:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/com/frans/lifegame/TimeTest.java:10:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/com/frans/lifegame/TimeTest.java:13:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/TimeTest.java:13:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/TimeTest.java:13:	UncommentedEmptyMethodBody: Document empty method body
+src/com/frans/lifegame/TimeTest.java:13:	UncommentedEmptyMethodBody: Document empty method body
+src/com/frans/lifegame/TimeTest.java:18:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/TimeTest.java:18:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/TimeTest.java:20:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/TimeTest.java:20:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/TimeTest.java:24:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/TimeTest.java:24:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/TimeTest.java:27:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/TimeTest.java:27:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/com/frans/lifegame/app/App.java:6:	CommentRequired: Class comments are required
+src/com/frans/lifegame/app/App.java:6:	CommentRequired: Class comments are required
+src/com/frans/lifegame/app/App.java:6:	ShortClassName: Avoid short class names like App
+src/com/frans/lifegame/app/App.java:6:	ShortClassName: Avoid short class names like App
+src/com/frans/lifegame/app/App.java:6:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/com/frans/lifegame/app/App.java:6:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/com/frans/lifegame/app/App.java:8:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/app/App.java:8:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/app/App.java:8:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/com/frans/lifegame/app/App.java:8:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/com/frans/lifegame/app/App.java:9:	LocalVariableCouldBeFinal: Local variable 'frame' could be declared final
+src/com/frans/lifegame/app/App.java:9:	LocalVariableCouldBeFinal: Local variable 'frame' could be declared final
+src/com/frans/lifegame/ui/CellButton.java:11:	CommentRequired: Class comments are required
+src/com/frans/lifegame/ui/CellButton.java:11:	CommentRequired: Class comments are required
+src/com/frans/lifegame/ui/CellButton.java:11:	DataClass: The class 'CellButton' is suspected to be a Data Class (WOC=0.000%, NOPA=2, NOAM=4, WMC=5)
+src/com/frans/lifegame/ui/CellButton.java:11:	DataClass: The class 'CellButton' is suspected to be a Data Class (WOC=0.000%, NOPA=2, NOAM=4, WMC=5)
+src/com/frans/lifegame/ui/CellButton.java:13:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/CellButton.java:13:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/CellButton.java:14:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/CellButton.java:14:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/CellButton.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/CellButton.java:16:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/CellButton.java:16:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/CellButton.java:16:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/CellButton.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/CellButton.java:17:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/CellButton.java:17:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/CellButton.java:17:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/CellButton.java:19:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/com/frans/lifegame/ui/CellButton.java:19:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/com/frans/lifegame/ui/CellButton.java:19:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/CellButton.java:19:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/CellButton.java:19:	MethodArgumentCouldBeFinal: Parameter 'xInCellPanel' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellButton.java:19:	MethodArgumentCouldBeFinal: Parameter 'xInCellPanel' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellButton.java:19:	MethodArgumentCouldBeFinal: Parameter 'yInCellPanel' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellButton.java:19:	MethodArgumentCouldBeFinal: Parameter 'yInCellPanel' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellButton.java:30:	MethodArgumentCouldBeFinal: Parameter 'xInCellPanel' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellButton.java:30:	MethodArgumentCouldBeFinal: Parameter 'xInCellPanel' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellButton.java:38:	MethodArgumentCouldBeFinal: Parameter 'yInCellPanel' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellButton.java:38:	MethodArgumentCouldBeFinal: Parameter 'yInCellPanel' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellsPanel.java:8:	CommentRequired: Class comments are required
+src/com/frans/lifegame/ui/CellsPanel.java:8:	CommentRequired: Class comments are required
+src/com/frans/lifegame/ui/CellsPanel.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/CellsPanel.java:10:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/CellsPanel.java:10:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/CellsPanel.java:10:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/CellsPanel.java:10:	ImmutableField: Private field 'rows' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/ui/CellsPanel.java:10:	ImmutableField: Private field 'rows' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/ui/CellsPanel.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/CellsPanel.java:11:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/CellsPanel.java:11:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/CellsPanel.java:11:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/CellsPanel.java:11:	ImmutableField: Private field 'cols' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/ui/CellsPanel.java:11:	ImmutableField: Private field 'cols' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/ui/CellsPanel.java:21:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/com/frans/lifegame/ui/CellsPanel.java:21:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/com/frans/lifegame/ui/CellsPanel.java:21:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/CellsPanel.java:21:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/CellsPanel.java:21:	MethodArgumentCouldBeFinal: Parameter 'cols' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellsPanel.java:21:	MethodArgumentCouldBeFinal: Parameter 'cols' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellsPanel.java:21:	MethodArgumentCouldBeFinal: Parameter 'rows' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellsPanel.java:21:	MethodArgumentCouldBeFinal: Parameter 'rows' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellsPanel.java:28:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/CellsPanel.java:28:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/CellsPanel.java:28:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellsPanel.java:28:	MethodArgumentCouldBeFinal: Parameter 'x' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellsPanel.java:28:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellsPanel.java:28:	MethodArgumentCouldBeFinal: Parameter 'y' is not assigned and could be declared final
+src/com/frans/lifegame/ui/CellsPanel.java:28:	ShortVariable: Avoid variables with short names like x
+src/com/frans/lifegame/ui/CellsPanel.java:28:	ShortVariable: Avoid variables with short names like x
+src/com/frans/lifegame/ui/CellsPanel.java:28:	ShortVariable: Avoid variables with short names like y
+src/com/frans/lifegame/ui/CellsPanel.java:28:	ShortVariable: Avoid variables with short names like y
+src/com/frans/lifegame/ui/GameFrame.java:15:	CommentRequired: Class comments are required
+src/com/frans/lifegame/ui/GameFrame.java:15:	CommentRequired: Class comments are required
+src/com/frans/lifegame/ui/GameFrame.java:15:	ModifiedCyclomaticComplexity: The class 'GameFrame' has a Modified Cyclomatic Complexity of 4 (Highest = 11).
+src/com/frans/lifegame/ui/GameFrame.java:15:	ModifiedCyclomaticComplexity: The class 'GameFrame' has a Modified Cyclomatic Complexity of 4 (Highest = 11).
+src/com/frans/lifegame/ui/GameFrame.java:15:	StdCyclomaticComplexity: The class 'GameFrame' has a Standard Cyclomatic Complexity of 4 (Highest = 11).
+src/com/frans/lifegame/ui/GameFrame.java:15:	StdCyclomaticComplexity: The class 'GameFrame' has a Standard Cyclomatic Complexity of 4 (Highest = 11).
+src/com/frans/lifegame/ui/GameFrame.java:18:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:18:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:18:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:18:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:18:	ImmutableField: Private field 'game' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/ui/GameFrame.java:18:	ImmutableField: Private field 'game' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/ui/GameFrame.java:19:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:19:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:19:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:19:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:20:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:20:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:20:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:20:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:20:	SingularField: Perhaps 'rightPanel' could be replaced by a local variable.
+src/com/frans/lifegame/ui/GameFrame.java:20:	SingularField: Perhaps 'rightPanel' could be replaced by a local variable.
+src/com/frans/lifegame/ui/GameFrame.java:21:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:21:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:21:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:21:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:22:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:22:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:22:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:23:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:23:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:23:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:23:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:23:	SingularField: Perhaps 'randomBtn' could be replaced by a local variable.
+src/com/frans/lifegame/ui/GameFrame.java:23:	SingularField: Perhaps 'randomBtn' could be replaced by a local variable.
+src/com/frans/lifegame/ui/GameFrame.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:24:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:24:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:24:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:24:	SingularField: Perhaps 'clearBtn' could be replaced by a local variable.
+src/com/frans/lifegame/ui/GameFrame.java:24:	SingularField: Perhaps 'clearBtn' could be replaced by a local variable.
+src/com/frans/lifegame/ui/GameFrame.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:25:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:25:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:25:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:25:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/com/frans/lifegame/ui/GameFrame.java:25:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/com/frans/lifegame/ui/GameFrame.java:25:	ImmutableField: Private field 'gameThread' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/ui/GameFrame.java:25:	ImmutableField: Private field 'gameThread' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/ui/GameFrame.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:26:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:26:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:26:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:26:	ImmutableField: Private field 'width' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/ui/GameFrame.java:26:	ImmutableField: Private field 'width' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/ui/GameFrame.java:27:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:27:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:27:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:27:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:27:	ImmutableField: Private field 'height' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/ui/GameFrame.java:27:	ImmutableField: Private field 'height' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/ui/GameFrame.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:28:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:28:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:28:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:28:	ImmutableField: Private field 'randomProbability' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/ui/GameFrame.java:28:	ImmutableField: Private field 'randomProbability' could be made final; it is only initialized in the declaration or constructor.
+src/com/frans/lifegame/ui/GameFrame.java:29:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:29:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/frans/lifegame/ui/GameFrame.java:29:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:29:	CommentRequired: Field comments are required
+src/com/frans/lifegame/ui/GameFrame.java:29:	RedundantFieldInitializer: Avoid using redundant field initializer for 'run'
+src/com/frans/lifegame/ui/GameFrame.java:29:	RedundantFieldInitializer: Avoid using redundant field initializer for 'run'
+src/com/frans/lifegame/ui/GameFrame.java:32:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/com/frans/lifegame/ui/GameFrame.java:32:	CallSuperInConstructor: It is a good practice to call super() in a constructor
+src/com/frans/lifegame/ui/GameFrame.java:32:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/GameFrame.java:32:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/GameFrame.java:46:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/com/frans/lifegame/ui/GameFrame.java:46:	DoNotUseThreads: To be compliant to J2EE, a webapp should not use any thread.
+src/com/frans/lifegame/ui/GameFrame.java:47:	ConstructorCallsOverridableMethod: Overridable method 'initUI' called during object construction
+src/com/frans/lifegame/ui/GameFrame.java:47:	ConstructorCallsOverridableMethod: Overridable method 'initUI' called during object construction
+src/com/frans/lifegame/ui/GameFrame.java:50:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/GameFrame.java:50:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/GameFrame.java:51:	LocalVariableCouldBeFinal: Local variable 'x' could be declared final
+src/com/frans/lifegame/ui/GameFrame.java:51:	LocalVariableCouldBeFinal: Local variable 'x' could be declared final
+src/com/frans/lifegame/ui/GameFrame.java:51:	ShortVariable: Avoid variables with short names like x
+src/com/frans/lifegame/ui/GameFrame.java:51:	ShortVariable: Avoid variables with short names like x
+src/com/frans/lifegame/ui/GameFrame.java:52:	LocalVariableCouldBeFinal: Local variable 'y' could be declared final
+src/com/frans/lifegame/ui/GameFrame.java:52:	LocalVariableCouldBeFinal: Local variable 'y' could be declared final
+src/com/frans/lifegame/ui/GameFrame.java:52:	ShortVariable: Avoid variables with short names like y
+src/com/frans/lifegame/ui/GameFrame.java:52:	ShortVariable: Avoid variables with short names like y
+src/com/frans/lifegame/ui/GameFrame.java:53:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/com/frans/lifegame/ui/GameFrame.java:53:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/com/frans/lifegame/ui/GameFrame.java:53:	ShortVariable: Avoid variables with short names like c
+src/com/frans/lifegame/ui/GameFrame.java:53:	ShortVariable: Avoid variables with short names like c
+src/com/frans/lifegame/ui/GameFrame.java:61:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/GameFrame.java:61:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/GameFrame.java:64:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/com/frans/lifegame/ui/GameFrame.java:64:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/com/frans/lifegame/ui/GameFrame.java:65:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/ui/GameFrame.java:65:	ControlStatementBraces: This statement should have braces
+src/com/frans/lifegame/ui/GameFrame.java:65:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/com/frans/lifegame/ui/GameFrame.java:65:	IfElseStmtsMustUseBraces: Avoid using if...else statements without curly braces
+src/com/frans/lifegame/ui/GameFrame.java:71:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/GameFrame.java:71:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/GameFrame.java:77:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/GameFrame.java:77:	CommentRequired: Public method and constructor comments are required
+src/com/frans/lifegame/ui/GameFrame.java:77:	ModifiedCyclomaticComplexity: The method 'initUI' has a Modified Cyclomatic Complexity of 11.
+src/com/frans/lifegame/ui/GameFrame.java:77:	ModifiedCyclomaticComplexity: The method 'initUI' has a Modified Cyclomatic Complexity of 11.
+src/com/frans/lifegame/ui/GameFrame.java:77:	StdCyclomaticComplexity: The method 'initUI' has a Standard Cyclomatic Complexity of 11.
+src/com/frans/lifegame/ui/GameFrame.java:77:	StdCyclomaticComplexity: The method 'initUI' has a Standard Cyclomatic Complexity of 11.
+src/com/frans/lifegame/ui/GameFrame.java:130:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/frans/lifegame/ui/GameFrame.java:130:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/com/frans/lifegame/ui/GameFrame.java:130:	LocalVariableCouldBeFinal: Local variable 'btn' could be declared final
+src/com/frans/lifegame/ui/GameFrame.java:130:	LocalVariableCouldBeFinal: Local variable 'btn' could be declared final
